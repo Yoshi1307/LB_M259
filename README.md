@@ -24,5 +24,5 @@ AY (Away Team Yellow Cards): Anzahl Karten vom Auswärtsteam
 HR (Home Team Red Cards): Anzahl Rote Karten vom Heimteam
 AR (Away Team Red Cards): Anzahl Rote Karten vom Auswärtsteam
 
-Lizenz:
+##Lizenz:
 Der Datensatz enthält nur Informationen zu Fussballspielen der Premier League, z.B die Anzahl Schüsse und die Resultate. Es sind keine persönlichen Daten von einzelnen Personen enthalten, wie Namen, Adressen oder Kontaktdaten. Deshalb werden keine Datenschutzrichtlinien verletzt. Die Daten stammen aus öffentlich verfügbaren Sportstatistiken, die bereits gesammelt und veröffentlicht wurden.(Laut ersteller von hier: https://www.football-data.co.uk/data.php ) In meinem Projekt habe ich nur diese vorhandenen Spieldaten verwendet und keine zusätzlichen personenbezogenen Daten hinzugefügt. Dadurch bleibt der Datenschutz gewährleistet.
